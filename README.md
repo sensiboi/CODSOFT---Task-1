@@ -9,7 +9,7 @@ The IRIS Flower Classification project classifies iris flowers into three specie
 
 ### Code
 
-The main code is contained in the [IRIS_FLOWER_CLASSIFICATION.ipynb](https://github.com/sensiboi/CODSOFT-Task-1/blob/main/IRIS_FLOWER_CLASSIFICATION.ipynb). It includes the following steps:
+The main code is contained in the [`IRIS_FLOWER_CLASSIFICATION.ipynb`](https://github.com/sensiboi/CODSOFT-Task-1/blob/main/IRIS_FLOWER_CLASSIFICATION.ipynb). It includes the following steps:
 
 1. Importing Libraries
 2. Loading the Dataset
